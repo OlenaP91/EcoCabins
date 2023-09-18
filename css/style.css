@@ -45,7 +45,7 @@ img {
 body {
   font-family: Rubik;
   font-style: 14px;
-  color: #646D70;
+  color: #7c1305;
 }
 .wrapper{
   min-height: 100%;
@@ -97,7 +97,7 @@ body {
   height: 100%;
   left: 0;
   top: 0;
-  background-color: rgba(0, 0, 0, .7);
+  background-color: rgba(165, 41, 41, 0.7);
   opacity: 0;
   transition: opacity 0.3s ease;
 }
@@ -133,7 +133,7 @@ body {
 }
 .header__button {
   padding: 10px 21px;
-  color: #606B74;
+  color: #4d1301;
   font-size: .75rem;
   font-weight: 500;
   background-color: #fff;
@@ -141,7 +141,7 @@ body {
   transition: all 0.3s;
 }
 .header__button:hover {
-  background-color: #606B74;
+  background-color: #4d1301;
   color: #fff;
 }
 .menu {
@@ -306,7 +306,7 @@ body {
 	font-size: 0.75rem;
 	font-weight: 500;
 	padding: 0.625rem 0.875rem;
-	border: 1px solid #646d70;
+	border: 1px solid #7c1305;
 }
 .materials__slider {
 	transform: translate(0, -20.765027%);
@@ -370,7 +370,7 @@ body {
 		bottom: 0;
 		right: 0;
 		height: 8.75rem;
-		background-color: #222f33;
+		background-color: #641102;
 		width: 38.3%; /* 383/1000 */
 	}
 }
@@ -386,7 +386,7 @@ body {
 /* Секція Іновації */
 
 .inovate {
-	background-color: #222f33;
+	background-color: #641102;
 	padding: 70px 0px 80px 0px;
 }
 .inovate__container {
@@ -435,7 +435,7 @@ body {
 }
 .info__title {
 	font-family: Merriweather;
-	color: #222f33;
+	color: #380c04;
 	font-size: 1.125rem;
 }
 .info__title:not(:last-child) {
@@ -470,7 +470,7 @@ body {
 }
 
 .footer {
-	background-color: #222f33;
+	background-color: #641102;
 	padding-top: 2.0625rem;
 	padding-bottom: 2.0625rem;
 }
